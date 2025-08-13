@@ -8,7 +8,6 @@ import com.ubanillx.intelligencedrawingbed.domain.user.entity.User;
 import java.util.List;
 
 /**
- * @author 李鱼皮
  * @createDate 2024-12-18 19:53:34
  */
 public interface SpaceAnalyzeApplicationService {

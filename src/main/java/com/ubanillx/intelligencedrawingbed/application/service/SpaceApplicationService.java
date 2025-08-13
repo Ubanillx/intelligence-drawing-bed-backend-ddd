@@ -12,7 +12,6 @@ import com.ubanillx.intelligencedrawingbed.interfaces.vo.space.SpaceVO;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * @author 李鱼皮
  * @description 针对表【space(空间)】的数据库操作Service
  * @createDate 2024-12-18 19:53:34
  */
